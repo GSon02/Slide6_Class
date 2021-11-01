@@ -146,5 +146,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         LatLng TPThaiBinh = new LatLng(20.447518, 106.331515);
         mMap.addMarker(new MarkerOptions().position(TPThaiBinh).title("Marker in Tp Thai Binh"));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(TPThaiBinh));
+        //caiugshjkaihfbjaoIhjv
     }
 }
